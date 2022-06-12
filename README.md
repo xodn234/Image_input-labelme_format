@@ -31,7 +31,10 @@
 - Labelme formal
   -  ![스크린샷 2022-06-01 오후 5 01 44](https://user-images.githubusercontent.com/78893090/172086032-38992d73-dc41-420d-a951-da1fa69d1c93.png)
 - 시연영상
-  - https://user-images.githubusercontent.com/78893090/173223610-c60984b9-478b-4235-8618-e0b9ab1331ff.mp4
+  -
+https://user-images.githubusercontent.com/78893090/173223698-b5b81cdd-19b6-4644-af26-bb40177cf878.mp4
+
+
 
 ### 기대효과
 - 타겟으로 하고자 하는 이미지 혹은 텍스트를 통하여 유사한 이미지의 정보를 손쉽게 Labelme format형식으로 가져올 수 있게되어 
