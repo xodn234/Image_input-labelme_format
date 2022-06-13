@@ -41,4 +41,4 @@ https://user-images.githubusercontent.com/78893090/173223698-b5b81cdd-19b6-4644-
   기존 수작업으로 진행하면서 발생된 인력과 비용 그리고 시간이 단축이 될것으로 기대됩니다. 
   
 ### 주요 스킬
-- Opencv, Crawling, API활용
+- OpenCV, Crawling, API활용
